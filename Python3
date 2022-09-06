@@ -1,0 +1,4 @@
+A = "Hello,"
+B = "My "
+C = "Friends."
+print(A+B+C)
